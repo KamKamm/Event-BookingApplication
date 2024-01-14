@@ -1,1 +1,1 @@
-# https-github.com-KamKamm-Event-BookingApplication
+Event-BookingApplication
